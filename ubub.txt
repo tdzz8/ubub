@@ -1,0 +1,197 @@
+www.youtube.com##.ytp-ce-element
+youtube.com##.ytp-ce-covering-overlay
+
+! 2/10/2019 https://aΩpinn.com
+appinn.com##.owl-stage
+appinn.com##.featured-section
+appinn.com###noranshow
+appinn.com###iranshownow
+
+! 2/28/2019 http://txzqw.me
+txzqw.me##.cc.head-wrap
+
+! 7/6/2019 https://pan.baidu.com
+pan.baidu.com##.red-packet-box
+pan.baidu.com##.privilege-box
+||cdn.baiduyun.wiki/bds.png$image
+
+
+! 7/25/2019 https://bilibili.com
+bilibili.com###live_recommand_report
+bilibili.com##.carousel-box
+bilibili.com###entryOld
+bilibili.com##.video-page-game-card
+bilibili.com###slide_ad
+bilibili.com##.video-page-special-card
+bilibili.com##.game.nav-item
+bilibili.com##.buy.nav-item
+bilibili.com##.live.nav-item
+bilibili.com##.r-con > .online
+bilibili.com###bili_live
+bilibili.com###bili_manga
+bilibili.com###bili_dance
+bilibili.com###bili_guochuang
+bilibili.com##.mobile.nav-item
+bilibili.com###matchModule
+
+! 8/18/2019 https://douyu.com
+douyu.com##.PlayerToolbar
+douyu.com##.Title-roomOtherBottom
+douyu.com##.DanmuEffectBC-content
+douyu.com##div.ani-base-hover.DanmuEffectBC.ani-broadcast:nth-of-type(1) > .DanmuEffectBC-headerIcon
+douyu.com##.DanmuEffectBC-endDesc
+douyu.com##.HeaderGif-left
+douyu.com##.HeaderGif-right
+douyu.com##.HeaderNav
+douyu.com##.is-show.ActBase.NewNobleAct
+douyu.com##.ChatRank
+douyu.com###js-aside
+douyu.com##.Bottom
+! 8/25/2019 https://douyu.com
+douyu.com##.vsFestival1908
+douyu.com##.is-show.ActBase.Act163201
+douyu.com###js-player-guessgame
+
+! 8/18/2019 http://dota2.com
+||cdn.dota2.com/apps/dota2/images/international2019/overview/bg_overview_main_how_to_watch.jpg$image
+||cdn.dota2.com/apps/dota2/images/international2019/overview/bg_overview_main_how_to_watch.jpg$image
+
+! 8/24/2019 http://vpgame.com
+vpgame.com##.live
+vpgame.com##.dell
+
+! 10/4/2019 http://chinaacc.com
+chinaacc.com###ZCMSAP_127
+
+! 11/10/2019 https://twitch.tv
+!twitch.tv##.tw-full-height.channel-root > .tw-pd-x-2
+twitch.tv##.side-nav__scrollable_content.simplebar-content
+
+! 11/27/2019 https://baidu.com
+baidu.com###content_right
+
+! 12/1/2019 https://douyu.com
+douyu.com###bc2
+douyu.com##.Header-wrap
+douyu.com##.wm_footer
+
+! 12/21/2019 https://huya.com
+huya.com##.room-footer
+huya.com###player-gift-wrap
+huya.com##.room-core-r
+huya.com##.player-app-qrcode
+
+! 1/21/2020 https://study.163.com
+study.163.com###auto-id-1579546397031
+study.163.com###auto-id-1579546939059
+
+
+! 3/7/2020 https://speedtest.cn
+!speedtest.cn###speedApp
+
+! 4/4/2020 http://ip111.cn
+ip111.cn##.container > div:nth-of-type(2)
+
+! 4/5/2020 https://bilibili.com
+bilibili.com##.mascot
+bilibili.com###reportFirst3
+bilibili.com###sidebar-vm
+bilibili.com###sections-vm
+bilibili.com###rank-list-vm
+bilibili.com##.left-action
+bilibili.com###gift-control-vm
+bilibili.com##.p-fixed.room-bg
+bilibili.com##.loc-mc-box
+
+! 8/1/2020 https://icourse163.org
+icourse163.org##.coupon
+
+! 2020-08-28 https://pan.baidu.com
+pan.baidu.com##.phone-banner
+
+! 2020-08-28 https://twitch.tv
+twitch.tv##.tw-mg-x-2.tw-mg-t-2 > div:nth-of-type(2)
+
+! 2021-04-02 https://bilibili.com
+
+bilibili.com###reportFirst2
+
+! 2021-06-12 https://jianshu.com
+jianshu.com##._1aCo37-body
+
+! 2021-06-16 https://baike.baidu.com
+baike.baidu.com##.J-secondsknow-large-container.secondsknow-large-container
+
+||static.zhihu.com/heifetz/main.signflow
+||static.zhihu.com/heifetz/column.signflow
+
+||csdnimg.cn/login-box
+
+! 2021-09-22 https://bilibili.com
+bilibili.com##.act-end.report-scroll-module.report-wrap-module.activity-m
+
+! 2021-09-25 https://bilibili.com
+bilibili.com##.inside-wrp
+bilibili.com###right-bottom-banner
+
+! 2021-11-05 https://live.bilibili.com
+bilibili.com###my-dear-haruna-vm
+
+! 2021-12-24 https://halihali7.com
+halihali7.com##.clearfix.cxg.index-tj
+
+! 2021-12-28 https://bilibili.com
+bilibili.com###bannerAd
+
+! 2022-05-04 https://appinn.com
+appinn.com##div.vertical.post-box.latestPost.test
+
+! 2022-05-07 https://dytt89.com
+dytt89.com##.noticeFixedBox
+
+! 2022-05-07 https://bilibili.com
+
+! 2022-05-28 https://blog.csdn.net
+blog.csdn.net##.passport-login-container
+
+! 2022-06-03 https://bilibili.com
+bilibili.com##.video-ad-creative-card
+
+! 2022-06-10 https://bilibili.com
+bilibili.com##.notice-item
+
+cctv.com/js/cntv_Advertise.js$document
+
+! 2022-06-26 https://youtube.com
+youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
+
+! 2022-07-12 https://bilibili.com
+bilibili.com##.van-popover__reference.download-client-trigger.link
+
+! 2022-08-04 https://www.bilibili.com
+bilibili.com##.bpx-player-popup-show
+bilibili.com##.bpx-player-top-left-follow
+bilibili.com##.bpx-player-show.bpx-player-link
+bilibili.com##.bpx-player-electric-panel
+bilibili.com##.bpx-player-electric-backdrop
+bilibili.com##.bpx-player-score-show-animate.bpx-player-score-show
+
+!bilibili.com##.bilibili-player-video-popup
+!bilibili.com##.bilibili-player-electric-panel
+!bilibili.com##.bilibili-player-video-top
+!bilibili.com##.bilibili-player-link-wrap
+!bilibili.com##.bilibili-player-video-inner
+!bilibili.com##.web-player-inject-wrap
+
+! 2022-09-12 https://www.appinn.com
+www.appinn.com##.wp-dark-mode-wobble.wp-dark-mode-ignore
+
+! 2022-09-22 https://www.bilibili.com
+www.bilibili.com##.bpx-player-show.bpx-player-reserve
+
+! 2022-09-23 https://www.bilibili.com
+www.bilibili.com##.bili-banner
+
+! 2022-09-24 https://www.bilibili.com
+www.bilibili.com##.primary-menu-itnl
+
