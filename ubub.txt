@@ -163,7 +163,7 @@ bilibili.com##.notice-item
 cctv.com/js/cntv_Advertise.js$document
 
 ! 2022-06-26 https://youtube.com
-youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(3)
+youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope:nth-of-type(2)
 
 ! 2022-07-12 https://bilibili.com
 bilibili.com##.van-popover__reference.download-client-trigger.link
