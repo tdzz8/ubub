@@ -124,6 +124,8 @@ baike.baidu.com##.J-secondsknow-large-container.secondsknow-large-container
 
 ||static.zhihu.com/heifetz/main.signflow
 ||static.zhihu.com/heifetz/column.signflow
+||static.zhihu.com/heifetz/chunks/signflow.*.js
+||static.zhihu.com/heifetz/signflow.*.css
 
 ||csdnimg.cn/login-box
 
